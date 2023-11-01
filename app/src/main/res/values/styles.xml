@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:padding">16dp</item>
+        <item name="android:backgroundTint">#FF5722</item> <!-- Color de fondo del botón -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Color del texto del botón -->
+        <item name="android:textSize">18sp</item> <!-- Tamaño del texto del botón -->
+        <item name="android:textAllCaps">true</item> <!-- Texto en mayúsculas -->
+        <item name="android:layout_marginTop">8dp</item> <!-- Margen superior -->
+        <item name="android:layout_marginBottom">8dp</item> <!-- Margen inferior -->
+        <item name="android:layout_marginStart">16dp</item> <!-- Margen izquierdo (LTR) -->
+        <item name="android:layout_marginEnd">16dp</item> <!-- Margen derecho (LTR) -->
+        <item name="android:gravity">center</item> <!-- Alineación del contenido al centro -->
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:backgroundTint">#F19C81</item>
+        <item name="android:padding">10dp</item> <!-- Fondo personalizado (puedes crear un drawable) -->
+        <item name="android:textColor">#000000</item> <!-- Color del texto del EditText -->
+        <item name="android:textSize">16sp</item> <!-- Tamaño del texto del EditText -->
+        <item name="android:layout_marginTop">8dp</item> <!-- Margen superior -->
+        <item name="android:layout_marginBottom">8dp</item> <!-- Margen inferior -->
+        <item name="android:layout_marginStart">16dp</item> <!-- Margen izquierdo (LTR) -->
+        <item name="android:layout_marginEnd">16dp</item> <!-- Margen derecho (LTR) -->
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">40dp</item> <!-- Tamaño del texto del TextView -->
+        <item name="android:textColor">#FF5722</item> <!-- Color del texto del TextView -->
+    </style>
+
+    <style name="SecondaryButtonStyle">
+        <item name="android:padding">16dp</item>
+        <item name="android:backgroundTint">#F19C81</item> <!-- Color de fondo del botón -->
+        <item name="android:textColor">#000000</item> <!-- Color del texto del botón -->
+        <item name="android:textSize">18sp</item> <!-- Tamaño del texto del botón -->
+        <item name="android:textAllCaps">true</item> <!-- Texto en mayúsculas -->
+        <item name="android:layout_marginTop">8dp</item> <!-- Margen superior -->
+        <item name="android:layout_marginBottom">8dp</item> <!-- Margen inferior -->
+        <item name="android:layout_marginStart">16dp</item> <!-- Margen izquierdo (LTR) -->
+        <item name="android:layout_marginEnd">16dp</item> <!-- Margen derecho (LTR) -->
+        <item name="android:gravity">center</item> <!-- Alineación del contenido al centro -->
+    </style>
+</resources>
